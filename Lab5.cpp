@@ -251,6 +251,7 @@ int sortString(char* s, int len)
 void printResult(int maxL)
 {
 	printf("Максимальное количество подряд идущих букв: %d \n", maxL);
+	printf("Максимальное количество подряд идущих букв еще разок взгляните: %d \n", maxL);
 }
 
 int Check()
